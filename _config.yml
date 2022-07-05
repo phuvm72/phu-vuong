@@ -179,8 +179,8 @@ links:
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
-# #extra_html:
-# extra_html: >
-#    Hi there, I'm a first year CS PhD student at TXST. Welcome to my blog
+#extra_html:
+extra_html: >
+   Hi there, I'm a first year CS PhD student at TXST. Welcome to my blog
 
 #EOF
